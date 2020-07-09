@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "My First Website",
+    "name": "TORI Creatives",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -363,7 +363,7 @@
                 "textTitle": "<b>Your Exclusive Identity</b>",
                 "overlay": false,
                 "contentAlign": "left",
-                "text": "<br>Let's build your brand identity using our professional, state-of-the-art imagery and technology.",
+                "text": "<br>Let's build your brand identity using our professional, state-of-the-art imagery and technology.<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-warning-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
                 "overlayColor": "#fffaeb"
               },
@@ -383,8 +383,8 @@
                 "textTitle": "<b>Value-Driven Conversion</b>",
                 "overlay": false,
                 "contentAlign": "center",
-                "text": "<br>Let's connect you to the audience that truly matters at the heart of your business. Turn them into loyal customers by providing the best value.",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+                "text": "<br>Let's connect you to the audience that truly matters at the heart of your business. Turn them into loyal customers by providing the best value.<br><br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-warning-outline\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
                 "overlayOpacity": "0.5",
                 "overlayColor": "#daa165"
               },
@@ -404,8 +404,8 @@
                 "textTitle": "<b>Automated Business Process</b>",
                 "overlay": false,
                 "contentAlign": "right",
-                "text": "<br>Let us help scale your marketing to the next level and utilize the power and magic of the internet sphere.&nbsp;<br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+                "text": "<br>Let us help scale your marketing to the next level and utilize the power and magic of the internet sphere.&nbsp;<br><br>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-4 btn-warning-outline\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
                 "overlayOpacity": "0.3",
                 "overlayColor": "#f9f295"
               }
@@ -934,7 +934,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#fffaeb\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success\" href=\"https://calendly.com/growyourclientbase/discovery-call\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-responsive mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;LET'S COLLABORATE!</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"2\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#fffaeb\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success\" href=\"https://calendly.com/growyourclientbase/discovery-call\" data-app-placeholder=\"Type Text\" target=\"_blank\">LET'S COLLABORATE!</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s4dXD3Z3Rh",
           "_anchor": "content8-v",
           "_protectedParams": [],
@@ -1067,7 +1067,7 @@
             "background-color": "@bgColor"
           },
           "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#fffaeb\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success-outline\" href=\"https://calendly.com/growyourclientbase/discovery-call\" data-app-placeholder=\"Type Text\" target=\"_blank\"><span class=\"mbri-calendar mbr-iconfont mbr-iconfont-btn\"></span>BOOK YOUR DISCOVERY CALL</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"3\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#fffaeb\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-success-outline\" href=\"https://calendly.com/growyourclientbase/discovery-call\" data-app-placeholder=\"Type Text\" target=\"_blank\">BOOK YOUR DISCOVERY CALL</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "s4dWORCu1n",
           "_anchor": "content8-u",
           "_protectedParams": [],
