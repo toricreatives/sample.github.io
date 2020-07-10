@@ -362,7 +362,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/luca-bravo-srjztxsk3os-unsplash-compressor-2000x1333.jpg",
+                "image": "@PROJECT_PATH@/assets/images/luca-bravo-srjztxsk3os-unsplash-compressor-1-2000x1333.jpeg",
                 "active": false,
                 "showButtons": true,
                 "showText": true,
