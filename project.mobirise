@@ -384,7 +384,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/nick-wessaert-ji01fn0u7cg-unsplash-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -404,8 +404,8 @@
                 "overlayColor": "#ffffff"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/10101825-luca-bravo-srjztxsk3os-unsplash-compressor-flipped-2000x1333.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/luca-bravo-srjztxsk3os-unsplash-compressor-2000x1333.jpeg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
