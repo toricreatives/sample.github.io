@@ -1359,17 +1359,20 @@ section.lazy-placeholder:after {
 .cid-s3KZ80nsAS .dropdown-item:hover {
   color: #767676 !important;
 }
-.cid-s3L4XQwMP2 {
-  padding-top: 75px;
+.cid-s4pmvQDZMJ {
+  padding-top: 90px;
   padding-bottom: 60px;
-  background-color: #cae7c1;
+  background-color: #c1c1c1;
 }
-.cid-s3L4XQwMP2 .mbr-section-subtitle {
+.cid-s4pmvQDZMJ P {
   color: #767676;
 }
-.cid-s3L4XQwMP2 H2 {
-  text-align: center;
+.cid-s4pmvQDZMJ H1 {
   color: #4f4943;
+}
+.cid-s4pmvQDZMJ .mbr-text,
+.cid-s4pmvQDZMJ .mbr-section-btn {
+  color: #232323;
 }
 .cid-s3L5OXqHgZ {
   padding-top: 45px;
@@ -1414,29 +1417,17 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-color: #ffffff;
 }
-.cid-s4oQwffVQt {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #cae7c1;
+.cid-s4pojq2TKF {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/matthew-henry-nvfpb-mmrj8-unsplash-2000x1333.jpg");
 }
-.cid-s4oQwffVQt .line {
-  background-color: #879a9f;
-  color: #879a9f;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
+.cid-s4pojq2TKF P {
+  color: #767676;
 }
-.cid-s4oQwffVQt .section-text {
-  padding: 2rem 0;
+.cid-s4pojq2TKF .mbr-text,
+.cid-s4pojq2TKF .mbr-section-btn {
   color: #4f4943;
-}
-.cid-s4oQwffVQt .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-s4oQwffVQt .inner-container {
-    width: 100% !important;
-  }
 }
 .cid-s3X8UG1f7j {
   padding-top: 75px;
@@ -1480,7 +1471,7 @@ section.lazy-placeholder:after {
 .cid-s4dJLJp1go {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #cae7c1;
+  background-color: #efefef;
 }
 .cid-s4dJLJp1go .testimonial-text {
   font-style: italic;
@@ -1513,7 +1504,7 @@ section.lazy-placeholder:after {
 .cid-s4dWORCu1n {
   padding-top: 0px;
   padding-bottom: 60px;
-  background-color: #cae7c1;
+  background-color: #efefef;
 }
 .cid-s3X12Z0PoY {
   padding-top: 15px;
