@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "TORI Creatives-final_green",
-    "currentPage": "index.html",
+    "currentPage": "privacy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
       "styling": {
         "primaryColor": "#c21aff",
         "secondaryColor": "#ff1aca",
-        "successColor": "#2a860d",
+        "successColor": "#1f7006",
         "infoColor": "#82786E",
         "warningColor": "#ffe01a",
         "dangerColor": "#fffaeb",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#1f7006",
         "#2a860d",
         "#333333",
         "#e7d0c1",
         "#cae7c1",
         "#f98d1b",
-        "#e7a6ff",
-        "#c21aff"
+        "#e7a6ff"
       ]
     },
     "path": "@PROJECT_PATH@",
