@@ -10,7 +10,7 @@
         "secondaryColor": "#ff1aca",
         "successColor": "#f98d1b",
         "infoColor": "#82786E",
-        "warningColor": "#879A9F",
+        "warningColor": "#ffe01a",
         "dangerColor": "#fffaeb",
         "mainFont": "Rubik",
         "display1Font": "Poppins",
@@ -28,13 +28,13 @@
         "isScrollToTopButton": false
       },
       "additionalSetColors": [
+        "#ffe01a",
         "#ff1aca",
         "#4f1aff",
         "#daa165",
         "#f4e7d9",
         "#fffaeb",
-        "#f98d1b",
-        "#d3f0ff"
+        "#f98d1b"
       ]
     },
     "path": "@PROJECT_PATH@",
@@ -863,7 +863,7 @@
             },
             "H2": {
               "text-align": "center",
-              "color": "#4f1aff"
+              "color": "#ffe01a"
             }
           },
           "_name": "content4",
