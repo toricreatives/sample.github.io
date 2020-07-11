@@ -398,7 +398,7 @@
                 "textTitle": "<b>Value-Driven Conversion</b>",
                 "overlay": true,
                 "contentAlign": "left",
-                "text": "Let's connect you to the audience that truly matters at the heart of your business. Turn them into&nbsp;loyal customers providing the best value.<br><br>",
+                "text": "Let's connect you to the audience that truly matters at the heart of your business.&nbsp;<br><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
                 "overlayOpacity": "0.5",
                 "overlayColor": "#ffffff"
