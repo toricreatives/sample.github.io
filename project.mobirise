@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "TORI Creatives-colorexperiment-clone",
+    "name": "TORI Creatives-final_orange",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
@@ -378,7 +378,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Let's build your brand identity using our professional, state-of-the-art imagery and technology.<br><br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\"><strong>LEARN MORE</strong></a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-success\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\"><strong>LEARN MORE</strong></a>",
                 "overlayColor": "#ffffff",
                 "overlayOpacity": "0.5"
               },
@@ -399,7 +399,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Let's connect you to the audience that truly matters at the heart of your business.&nbsp;<br><br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-primary\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-success\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
                 "overlayOpacity": "0.5",
                 "overlayColor": "#ffffff"
               },
