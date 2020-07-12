@@ -84,7 +84,12 @@
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
       "textButton": "Agree"
     },
-    "gdpr": false,
+    "gdpr": {
+      "colorText": "#a7a7a7",
+      "colorLink": "#149dcc",
+      "underlineLink": false,
+      "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
+    },
     "uniqCompNum": 65,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png"
@@ -379,7 +384,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Let's build your brand identity using our professional, state-of-the-art imagery and technology.<br><br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-success\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\"><strong>LEARN MORE</strong></a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-success\" data-app-placeholder=\"Type Text\" href=\"index.html#header16-1p\" data-toolbar=\"-mbrBtnMove\"><strong>LEARN MORE</strong></a>",
                 "overlayColor": "#ffffff",
                 "overlayOpacity": "0.5"
               },
@@ -400,7 +405,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Let's connect you to the audience that truly matters at the heart of your business.&nbsp;<br><br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-success\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-success\" data-app-placeholder=\"Type Text\" href=\"index.html#header16-1p\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
                 "overlayOpacity": "0.5",
                 "overlayColor": "#ffffff"
               },
@@ -421,7 +426,7 @@
                 "overlay": true,
                 "contentAlign": "left",
                 "text": "Let's help scale your marketing to the next level and utilize the power and magic of the&nbsp;internet sphere.&nbsp;<br><br>",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-success\" data-app-placeholder=\"Type Text\" href=\"index.html#content4-2\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  display-7 btn-success\" data-app-placeholder=\"Type Text\" href=\"index.html#header16-1p\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
                 "overlayOpacity": "0.5",
                 "overlayColor": "#ffffff"
               }
