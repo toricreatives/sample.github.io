@@ -1361,6 +1361,9 @@ section.lazy-placeholder:after {
 .cid-s3X12Z0PoY .media-container-row .mbr-text {
   color: #fffaeb;
 }
+.cid-s3X12Z0PoY foot-menu-item {
+  color: #fffaeb;
+}
 .cid-s3KZ80nsAS .navbar {
   background: #fffaeb;
   transition: none;
@@ -2110,5 +2113,8 @@ section.lazy-placeholder:after {
   width: 100%;
 }
 .cid-s3X12Z0PoY .media-container-row .mbr-text {
+  color: #fffaeb;
+}
+.cid-s3X12Z0PoY foot-menu-item {
   color: #fffaeb;
 }
