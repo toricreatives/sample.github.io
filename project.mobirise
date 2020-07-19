@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "TORI Creatives-canva inspired",
-    "currentPage": "index.html",
+    "currentPage": "privacy.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -66,7 +66,7 @@
         "url": "https://fonts.googleapis.com/css?family=Ubuntu:300,300i,400,400i,500,500i,700,700i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/tori-short-form-128x141-1.png",
+    "favicon": "@PROJECT_PATH@/assets/images/tori-shortform2-png-128x138-1.png",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
